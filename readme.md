@@ -1,7 +1,7 @@
 ## Contract example
 
 
-- test
+- **test**
 - test bonjour la tout le monde
 - test 2
 
